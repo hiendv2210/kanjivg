@@ -55,7 +55,4 @@ information from altered SVG files and regenerate a clean file from the
 template.svg file. All changed SVG files must be passed through this filter
 before being commited.
 
-
-
-
-/// KAOPIZ 6
+// kaopiz
